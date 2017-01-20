@@ -36,7 +36,7 @@ public class MasterCheckout {
 	public static void initalize() throws Exception
 	{
 		url=Getdata.geturl("url");
-		System.setProperty("webdriver.gecko.driver", "C:/Users/shekh/Desktop/selenium/geckodriver-v0.11.1-win64/geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"//pagefactory//Lib//geckodriver.exe");
 		driver= new FirefoxDriver();
 		driver.get(url);
 		driver.manage().window().maximize();
