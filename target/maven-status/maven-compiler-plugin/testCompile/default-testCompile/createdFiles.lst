@@ -1,0 +1,8 @@
+com\tests\MasterCheckout.class
+com\pages\Homepage.class
+com\pages\Getdata.class
+com\pages\AddressPage.class
+com\pages\CheckOutPage.class
+com\pages\ProductPage.class
+com\tests\VisaCheckout.class
+com\pages\DatabaseConnection.class

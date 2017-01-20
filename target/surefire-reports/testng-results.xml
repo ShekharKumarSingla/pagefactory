@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="118754" started-at="2017-01-16T00:34:03Z" finished-at="2017-01-16T00:36:01Z">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="118754" started-at="2017-01-16T00:34:03Z" finished-at="2017-01-16T00:36:01Z">
+      <class name="com.tests.MasterCheckout">
+        <test-method status="PASS" signature="DBdata()[pri:0, instance:com.tests.MasterCheckout@17c68925]" name="DBdata" is-config="true" duration-ms="1922" started-at="2017-01-16T11:34:03Z" finished-at="2017-01-16T11:34:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DBdata -->
+        <test-method status="PASS" signature="initalize()[pri:0, instance:com.tests.MasterCheckout@17c68925]" name="initalize" is-config="true" duration-ms="36562" started-at="2017-01-16T11:34:04Z" finished-at="2017-01-16T11:34:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initalize -->
+        <test-method status="PASS" signature="master()[pri:0, instance:com.tests.MasterCheckout@17c68925]" name="master" duration-ms="80179" started-at="2017-01-16T11:34:41Z" finished-at="2017-01-16T11:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- master -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.tests.MasterCheckout@17c68925]" name="teardown" is-config="true" duration-ms="31" started-at="2017-01-16T11:36:01Z" finished-at="2017-01-16T11:36:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.tests.MasterCheckout -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

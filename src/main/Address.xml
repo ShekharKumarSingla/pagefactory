@@ -1,0 +1,22 @@
+<Addresses>
+<IL>
+<FirstName>Shekhar</FirstName>
+<LastName>Singla</LastName>
+<Address1>5/15 Carter Street</Address1>
+<City>Schamburg</City>
+<State>IL</State>
+<PostalCode>60173</PostalCode>
+<Phone>0123456789</Phone>
+<Email>h@s.com</Email>
+</IL>
+<PA>
+<FirstName>Shekhar</FirstName>
+<LastName>Singla</LastName>
+<Address1>5/15 Carter Street</Address1>
+<City>King of Prussia</City>
+<State>PA</State>
+<PostalCode>19406</PostalCode>
+<Phone>0123456789</Phone>
+<Email>1h@s.com</Email>
+</PA>
+</Addresses>

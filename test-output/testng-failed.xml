@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]">
+  <test name="Regression1(failed)">
+    <classes>
+      <class name="com.tests.MasterCheckout">
+        <methods>
+          <include name="master"/>
+          <include name="teardown"/>
+          <include name="DBdata"/>
+          <include name="initalize"/>
+        </methods>
+      </class> <!-- com.tests.MasterCheckout -->
+    </classes>
+  </test> <!-- Regression1(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
